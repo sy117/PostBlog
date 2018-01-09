@@ -1,0 +1,290 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/sunil/.android/build-cache/3a2640e032495b9e2b365f702a287cc3bd0237a3/output/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/sunil/.android/build-cache/d57427aee70a59fff4ebc324f1470ff66f01fd53/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:6:22-77
+application
+ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/sunil/.android/build-cache/012e35f06e2288749fba8fe90d82be905a87ae54/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sunil/.android/build-cache/f2eb381937305e2ffd8a3199d751fecf51cc0c83/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /home/sunil/.android/build-cache/6f5a677d40613b60ad66aabe1d4903d6e47b5ed5/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /home/sunil/.android/build-cache/989110b7c134051685299f62158bc787cde40978/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/sunil/.android/build-cache/5e5a22bd181e56a5b87a57f9276166a05fdf6401/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/sunil/.android/build-cache/3a2640e032495b9e2b365f702a287cc3bd0237a3/output/AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sunil/.android/build-cache/67c851020db4a0750b6f57e59e093f45ff8fa8ab/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/sunil/.android/build-cache/fcc51f33105f04a1bf18e709cc800861ddb3179d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/sunil/.android/build-cache/b2bd382c9f830aa25275b21a78ee69d8070cf0d2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.0] /home/sunil/.android/build-cache/e0821e050505f4a80e768455edf592509fc6fe90/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/sunil/.android/build-cache/d57427aee70a59fff4ebc324f1470ff66f01fd53/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] /home/sunil/.android/build-cache/324c677e56670a5ba95f6e912741083b4efdadb0/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/sunil/.android/build-cache/ab2d94e1362cb633e2454715169c29f0bb6648ed/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/sunil/.android/build-cache/06d4bee764e87ebfd1bbcf019d5097e0358578fa/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/sunil/.android/build-cache/398e68282f141f8992a82c126274a36edbe534af/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sunil/.android/build-cache/789e654e2adc33173e8e435ebcd511de9bafc4e6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sunil/.android/build-cache/341d1a9e22e20e5d9ce26c13406ddef71662c57f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sunil/.android/build-cache/30f91e9a89b66c99a8c3b7186ef554f882ed1914/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sunil/.android/build-cache/a837053ad7a5bdd0fb370ba0cea12b77415d983e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sunil/.android/build-cache/4e0433a292d79a002981e71343648de6b3d72dfb/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.sunil.postblog.MainActivity
+ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.sunil.postblog.PostActivity
+ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:22:19-47
+activity#com.example.sunil.postblog.RegisterActivity
+ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:23:9-54
+	android:name
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:23:19-51
+activity#com.example.sunil.postblog.LoginActivity
+ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:24:19-48
+activity#com.example.sunil.postblog.SetupActivity
+ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:25:9-60
+	android:name
+		ADDED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml:25:19-48
+uses-sdk
+INJECTED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/sunil/.android/build-cache/012e35f06e2288749fba8fe90d82be905a87ae54/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/sunil/.android/build-cache/f2eb381937305e2ffd8a3199d751fecf51cc0c83/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage:10.2.0] /home/sunil/.android/build-cache/241d4313be3bb7f38a4c21c3a1f3b6bd8198cefe/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.0] /home/sunil/.android/build-cache/71a0bb34a18a2ac9138673df6f275702ad1e5937/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /home/sunil/.android/build-cache/6f5a677d40613b60ad66aabe1d4903d6e47b5ed5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /home/sunil/.android/build-cache/989110b7c134051685299f62158bc787cde40978/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] /home/sunil/.android/build-cache/dc07e8735f40152e24cf59d74db1b4dda23a0487/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/sunil/.android/build-cache/5e5a22bd181e56a5b87a57f9276166a05fdf6401/output/AndroidManifest.xml:17:5-43
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/sunil/.android/build-cache/3a2640e032495b9e2b365f702a287cc3bd0237a3/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sunil/.android/build-cache/67c851020db4a0750b6f57e59e093f45ff8fa8ab/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/sunil/.android/build-cache/fcc51f33105f04a1bf18e709cc800861ddb3179d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/sunil/.android/build-cache/b2bd382c9f830aa25275b21a78ee69d8070cf0d2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/sunil/.android/build-cache/18ba712f297ec083bb3cc8bd3614a63f3f6bbf82/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:10.2.0] /home/sunil/.android/build-cache/36a69936e0bc1dd476b9c2d9fb915462ada76741/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.0] /home/sunil/.android/build-cache/a4154afbd6cce405650ba4910cd3ffcc9091f79d/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.0] /home/sunil/.android/build-cache/e0821e050505f4a80e768455edf592509fc6fe90/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/sunil/.android/build-cache/d57427aee70a59fff4ebc324f1470ff66f01fd53/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] /home/sunil/.android/build-cache/324c677e56670a5ba95f6e912741083b4efdadb0/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/sunil/.android/build-cache/ab2d94e1362cb633e2454715169c29f0bb6648ed/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/sunil/.android/build-cache/06d4bee764e87ebfd1bbcf019d5097e0358578fa/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/sunil/.android/build-cache/398e68282f141f8992a82c126274a36edbe534af/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sunil/.android/build-cache/789e654e2adc33173e8e435ebcd511de9bafc4e6/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sunil/.android/build-cache/341d1a9e22e20e5d9ce26c13406ddef71662c57f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sunil/.android/build-cache/30f91e9a89b66c99a8c3b7186ef554f882ed1914/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sunil/.android/build-cache/a837053ad7a5bdd0fb370ba0cea12b77415d983e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sunil/.android/build-cache/4e0433a292d79a002981e71343648de6b3d72dfb/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sunil/.android/build-cache/67c851020db4a0750b6f57e59e093f45ff8fa8ab/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sunil/AndroidStudioProjects/PostBlog/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/sunil/.android/build-cache/012e35f06e2288749fba8fe90d82be905a87ae54/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/sunil/.android/build-cache/67c851020db4a0750b6f57e59e093f45ff8fa8ab/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/sunil/.android/build-cache/fcc51f33105f04a1bf18e709cc800861ddb3179d/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/sunil/.android/build-cache/b2bd382c9f830aa25275b21a78ee69d8070cf0d2/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/sunil/.android/build-cache/18ba712f297ec083bb3cc8bd3614a63f3f6bbf82/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/sunil/.android/build-cache/398e68282f141f8992a82c126274a36edbe534af/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/sunil/.android/build-cache/789e654e2adc33173e8e435ebcd511de9bafc4e6/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/sunil/.android/build-cache/341d1a9e22e20e5d9ce26c13406ddef71662c57f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/sunil/.android/build-cache/30f91e9a89b66c99a8c3b7186ef554f882ed1914/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/sunil/.android/build-cache/a837053ad7a5bdd0fb370ba0cea12b77415d983e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/sunil/.android/build-cache/4e0433a292d79a002981e71343648de6b3d72dfb/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/sunil/.android/build-cache/012e35f06e2288749fba8fe90d82be905a87ae54/output/AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/sunil/.android/build-cache/012e35f06e2288749fba8fe90d82be905a87ae54/output/AndroidManifest.xml:23:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/sunil/.android/build-cache/989110b7c134051685299f62158bc787cde40978/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/sunil/.android/build-cache/989110b7c134051685299f62158bc787cde40978/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/sunil/.android/build-cache/989110b7c134051685299f62158bc787cde40978/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/sunil/.android/build-cache/989110b7c134051685299f62158bc787cde40978/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/sunil/.android/build-cache/989110b7c134051685299f62158bc787cde40978/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/sunil/.android/build-cache/989110b7c134051685299f62158bc787cde40978/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/sunil/.android/build-cache/989110b7c134051685299f62158bc787cde40978/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/sunil/.android/build-cache/989110b7c134051685299f62158bc787cde40978/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/sunil/.android/build-cache/989110b7c134051685299f62158bc787cde40978/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/sunil/.android/build-cache/5e5a22bd181e56a5b87a57f9276166a05fdf6401/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/sunil/.android/build-cache/5e5a22bd181e56a5b87a57f9276166a05fdf6401/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/sunil/.android/build-cache/5e5a22bd181e56a5b87a57f9276166a05fdf6401/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/sunil/.android/build-cache/5e5a22bd181e56a5b87a57f9276166a05fdf6401/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/sunil/.android/build-cache/3a2640e032495b9e2b365f702a287cc3bd0237a3/output/AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/sunil/.android/build-cache/06d4bee764e87ebfd1bbcf019d5097e0358578fa/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/sunil/.android/build-cache/3a2640e032495b9e2b365f702a287cc3bd0237a3/output/AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/sunil/.android/build-cache/3a2640e032495b9e2b365f702a287cc3bd0237a3/output/AndroidManifest.xml:15:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/sunil/.android/build-cache/d57427aee70a59fff4ebc324f1470ff66f01fd53/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/sunil/.android/build-cache/d57427aee70a59fff4ebc324f1470ff66f01fd53/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/sunil/.android/build-cache/d57427aee70a59fff4ebc324f1470ff66f01fd53/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/sunil/.android/build-cache/d57427aee70a59fff4ebc324f1470ff66f01fd53/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/sunil/.android/build-cache/9bd01f6b2c5fbc0e62c6e220c98961a0d57914e7/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/sunil/.android/build-cache/90876e066bca2bea646e0f1522927e34401b7b4a/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] /home/sunil/.android/build-cache/324c677e56670a5ba95f6e912741083b4efdadb0/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/sunil/.android/build-cache/324c677e56670a5ba95f6e912741083b4efdadb0/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/sunil/.android/build-cache/324c677e56670a5ba95f6e912741083b4efdadb0/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/sunil/.android/build-cache/324c677e56670a5ba95f6e912741083b4efdadb0/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/sunil/.android/build-cache/324c677e56670a5ba95f6e912741083b4efdadb0/output/AndroidManifest.xml:6:79-143
